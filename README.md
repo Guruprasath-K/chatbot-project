@@ -36,4 +36,8 @@ This project is developed by [Guruprasath K](https://github.com/Guruprasath-K).
 
 ## Screenshots
 
+<img src="/img/scr1.png">
+<br/>
+<img src="/img/scr2.png">
+<br/>
 
